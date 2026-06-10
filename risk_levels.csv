@@ -1,0 +1,1471 @@
+EmployeeNumber,Department,MonthlyIncome,JobSatisfaction,OverTime,attrition_risk_level
+1,Sales,5993,4,Yes,LOW RISK
+2,Research & Development,5130,2,No,LOW RISK
+4,Research & Development,2090,3,Yes,MEDIUM RISK
+5,Research & Development,2909,3,Yes,MEDIUM RISK
+7,Research & Development,3468,2,No,LOW RISK
+8,Research & Development,3068,4,No,LOW RISK
+10,Research & Development,2670,1,Yes,HIGH RISK
+11,Research & Development,2693,3,No,MEDIUM RISK
+12,Research & Development,9526,3,No,MEDIUM RISK
+13,Research & Development,5237,3,No,MEDIUM RISK
+14,Research & Development,2426,2,No,LOW RISK
+15,Research & Development,4193,3,Yes,MEDIUM RISK
+16,Research & Development,2911,3,No,MEDIUM RISK
+18,Research & Development,2661,4,No,LOW RISK
+19,Research & Development,2028,3,Yes,MEDIUM RISK
+20,Research & Development,9980,1,No,MEDIUM RISK
+21,Research & Development,3298,2,Yes,HIGH RISK
+22,Research & Development,2935,4,Yes,LOW RISK
+23,Sales,15427,4,No,LOW RISK
+24,Research & Development,3944,4,Yes,LOW RISK
+26,Research & Development,4011,3,No,MEDIUM RISK
+27,Sales,3407,1,No,LOW RISK
+28,Research & Development,11994,2,No,LOW RISK
+30,Research & Development,1232,4,No,LOW RISK
+31,Research & Development,2960,1,No,LOW RISK
+32,Research & Development,19094,3,No,MEDIUM RISK
+33,Research & Development,3919,1,Yes,HIGH RISK
+35,Sales,6825,2,No,LOW RISK
+36,Research & Development,10248,4,No,LOW RISK
+38,Sales,18947,1,No,LOW RISK
+39,Research & Development,2496,4,No,LOW RISK
+40,Research & Development,6465,4,Yes,LOW RISK
+41,Research & Development,2206,3,No,MEDIUM RISK
+42,Sales,2086,4,No,LOW RISK
+45,Research & Development,2293,4,Yes,LOW RISK
+46,Research & Development,2645,3,No,MEDIUM RISK
+47,Sales,2683,3,Yes,MEDIUM RISK
+49,Sales,2014,4,No,LOW RISK
+51,Research & Development,3419,1,Yes,HIGH RISK
+52,Sales,5376,1,No,LOW RISK
+53,Research & Development,1951,4,No,LOW RISK
+54,Research & Development,2341,1,No,LOW RISK
+55,Research & Development,2293,3,No,MEDIUM RISK
+56,Sales,8726,3,No,MEDIUM RISK
+57,Research & Development,4011,4,No,LOW RISK
+58,Research & Development,19545,3,No,MEDIUM RISK
+60,Sales,4568,3,No,MEDIUM RISK
+61,Research & Development,3022,2,No,LOW RISK
+62,Sales,5772,4,Yes,LOW RISK
+63,Research & Development,2269,4,No,LOW RISK
+64,Research & Development,5381,3,Yes,MEDIUM RISK
+65,Research & Development,3441,3,Yes,MEDIUM RISK
+68,Sales,5454,1,Yes,LOW RISK
+70,Research & Development,9884,1,Yes,LOW RISK
+72,Sales,4157,4,Yes,MEDIUM RISK
+73,Research & Development,13458,4,Yes,LOW RISK
+74,Sales,9069,1,No,LOW RISK
+75,Research & Development,4014,1,Yes,HIGH RISK
+76,Research & Development,5915,4,No,LOW RISK
+77,Research & Development,5993,3,No,MEDIUM RISK
+78,Research & Development,6162,4,Yes,LOW RISK
+79,Research & Development,2406,4,No,MEDIUM RISK
+80,Research & Development,18740,3,Yes,MEDIUM RISK
+81,Sales,7637,1,No,MEDIUM RISK
+83,Research & Development,10096,3,No,MEDIUM RISK
+84,Research & Development,14756,3,Yes,MEDIUM RISK
+85,Research & Development,6499,2,No,LOW RISK
+86,Research & Development,9724,1,No,LOW RISK
+88,Research & Development,2194,1,No,LOW RISK
+90,Research & Development,3388,3,Yes,MEDIUM RISK
+91,Sales,5473,3,No,MEDIUM RISK
+94,Research & Development,2703,2,No,LOW RISK
+95,Research & Development,2501,2,No,LOW RISK
+96,Research & Development,6220,2,No,LOW RISK
+97,Research & Development,3038,4,No,LOW RISK
+98,Research & Development,4424,4,No,LOW RISK
+100,Sales,4312,1,No,LOW RISK
+101,Research & Development,13245,1,Yes,LOW RISK
+102,Research & Development,13664,3,No,MEDIUM RISK
+103,Human Resources,5021,2,Yes,LOW RISK
+104,Research & Development,5126,4,Yes,LOW RISK
+105,Research & Development,2859,3,No,MEDIUM RISK
+106,Sales,10239,4,No,LOW RISK
+107,Research & Development,5329,4,Yes,LOW RISK
+110,Research & Development,4325,2,No,LOW RISK
+112,Research & Development,7260,4,No,LOW RISK
+113,Sales,2322,1,No,LOW RISK
+116,Research & Development,2075,4,No,LOW RISK
+117,Research & Development,4152,4,No,LOW RISK
+118,Sales,9619,4,No,LOW RISK
+119,Research & Development,13503,2,No,LOW RISK
+120,Sales,5441,4,Yes,MEDIUM RISK
+121,Sales,5209,2,Yes,LOW RISK
+124,Research & Development,10673,1,Yes,LOW RISK
+125,Sales,5010,3,No,MEDIUM RISK
+126,Research & Development,13549,3,No,MEDIUM RISK
+128,Sales,4999,3,No,MEDIUM RISK
+129,Sales,4221,3,No,MEDIUM RISK
+131,Sales,13872,3,No,MEDIUM RISK
+132,Research & Development,2042,2,No,MEDIUM RISK
+133,Human Resources,2073,1,Yes,HIGH RISK
+134,Research & Development,2956,1,No,LOW RISK
+137,Research & Development,2926,4,Yes,LOW RISK
+138,Research & Development,4809,3,No,MEDIUM RISK
+139,Research & Development,5163,4,No,LOW RISK
+140,Human Resources,18844,4,No,LOW RISK
+141,Research & Development,18172,2,Yes,LOW RISK
+142,Sales,5744,3,Yes,MEDIUM RISK
+143,Research & Development,2889,4,No,LOW RISK
+144,Research & Development,2871,4,No,LOW RISK
+145,Research & Development,7484,1,No,LOW RISK
+147,Research & Development,6074,3,Yes,MEDIUM RISK
+148,Human Resources,17328,4,Yes,MEDIUM RISK
+150,Research & Development,2774,3,No,MEDIUM RISK
+151,Research & Development,4505,2,No,LOW RISK
+152,Sales,7428,4,No,LOW RISK
+153,Research & Development,11631,1,No,LOW RISK
+154,Sales,9738,4,No,LOW RISK
+155,Research & Development,2835,4,No,LOW RISK
+158,Sales,16959,4,Yes,MEDIUM RISK
+159,Research & Development,2613,3,No,MEDIUM RISK
+160,Sales,6146,2,No,MEDIUM RISK
+161,Research & Development,4963,2,Yes,HIGH RISK
+162,Research & Development,19537,3,No,MEDIUM RISK
+163,Sales,6172,3,Yes,MEDIUM RISK
+164,Research & Development,2368,2,No,LOW RISK
+165,Research & Development,10312,4,No,MEDIUM RISK
+167,Sales,1675,3,Yes,MEDIUM RISK
+169,Research & Development,2523,4,No,LOW RISK
+170,Research & Development,6567,1,No,LOW RISK
+171,Research & Development,4739,3,No,MEDIUM RISK
+174,Sales,9208,4,No,LOW RISK
+175,Sales,4559,3,Yes,MEDIUM RISK
+176,Sales,8189,3,Yes,MEDIUM RISK
+177,Human Resources,2942,3,No,MEDIUM RISK
+178,Research & Development,4941,2,No,LOW RISK
+179,Research & Development,10650,4,No,LOW RISK
+182,Sales,5902,3,No,MEDIUM RISK
+183,Sales,8639,3,No,MEDIUM RISK
+184,Human Resources,6347,4,Yes,LOW RISK
+190,Research & Development,4200,1,No,LOW RISK
+192,Research & Development,3452,4,No,MEDIUM RISK
+193,Research & Development,4317,3,Yes,MEDIUM RISK
+194,Research & Development,2632,3,No,MEDIUM RISK
+195,Sales,4668,4,No,LOW RISK
+197,Research & Development,3204,1,No,LOW RISK
+198,Research & Development,2720,4,No,LOW RISK
+199,Research & Development,17181,1,No,LOW RISK
+200,Research & Development,2238,1,No,LOW RISK
+201,Research & Development,1483,2,No,LOW RISK
+202,Research & Development,5605,2,No,MEDIUM RISK
+204,Sales,7295,2,No,LOW RISK
+205,Sales,2306,3,Yes,MEDIUM RISK
+206,Research & Development,2348,2,No,LOW RISK
+207,Sales,8998,4,No,LOW RISK
+208,Research & Development,4319,3,No,MEDIUM RISK
+211,Research & Development,6132,3,No,MEDIUM RISK
+214,Research & Development,3346,2,Yes,HIGH RISK
+215,Sales,10855,4,No,LOW RISK
+216,Sales,2231,3,No,MEDIUM RISK
+217,Research & Development,2323,4,No,LOW RISK
+218,Research & Development,2024,2,No,LOW RISK
+221,Research & Development,2713,4,No,MEDIUM RISK
+223,Research & Development,9439,4,Yes,MEDIUM RISK
+224,Research & Development,2566,3,Yes,MEDIUM RISK
+226,Research & Development,19926,2,No,LOW RISK
+227,Research & Development,2451,3,No,MEDIUM RISK
+228,Sales,9419,4,No,LOW RISK
+230,Sales,8686,4,No,LOW RISK
+231,Research & Development,3038,3,No,MEDIUM RISK
+233,Research & Development,3058,2,Yes,HIGH RISK
+235,Sales,2325,1,No,LOW RISK
+238,Research & Development,2088,2,No,LOW RISK
+239,Research & Development,3072,1,No,LOW RISK
+240,Sales,5006,1,Yes,LOW RISK
+241,Research & Development,4257,1,Yes,HIGH RISK
+242,Research & Development,2500,4,No,LOW RISK
+243,Research & Development,1102,4,No,LOW RISK
+244,Sales,10453,1,No,LOW RISK
+245,Research & Development,2288,4,No,LOW RISK
+246,Research & Development,3929,4,Yes,LOW RISK
+247,Research & Development,2311,2,No,MEDIUM RISK
+248,Sales,3140,2,Yes,HIGH RISK
+249,Research & Development,3690,3,No,MEDIUM RISK
+250,Research & Development,4450,1,No,LOW RISK
+252,Research & Development,2756,2,No,LOW RISK
+253,Research & Development,19033,3,No,MEDIUM RISK
+254,Research & Development,18722,2,No,LOW RISK
+256,Research & Development,9547,3,No,MEDIUM RISK
+258,Research & Development,13734,2,No,LOW RISK
+259,Research & Development,19999,3,No,MEDIUM RISK
+260,Research & Development,2279,2,No,LOW RISK
+261,Research & Development,5916,3,Yes,MEDIUM RISK
+262,Research & Development,2089,4,No,LOW RISK
+264,Research & Development,16792,4,No,LOW RISK
+267,Research & Development,3564,1,Yes,HIGH RISK
+269,Research & Development,4425,2,No,LOW RISK
+270,Research & Development,5265,3,No,MEDIUM RISK
+271,Research & Development,6553,3,No,MEDIUM RISK
+273,Research & Development,6261,4,No,MEDIUM RISK
+274,Research & Development,4298,1,No,LOW RISK
+275,Research & Development,6804,4,Yes,LOW RISK
+277,Research & Development,3815,3,Yes,MEDIUM RISK
+281,Research & Development,2741,4,Yes,LOW RISK
+282,Research & Development,6673,1,Yes,MEDIUM RISK
+283,Sales,7639,4,No,MEDIUM RISK
+284,Research & Development,2328,2,Yes,HIGH RISK
+286,Research & Development,2153,4,No,LOW RISK
+287,Research & Development,4876,4,No,LOW RISK
+288,Research & Development,9396,1,No,LOW RISK
+291,Sales,10400,4,No,LOW RISK
+292,Research & Development,8474,3,No,MEDIUM RISK
+293,Sales,9981,3,No,MEDIUM RISK
+296,Research & Development,12490,2,No,LOW RISK
+297,Research & Development,2657,1,Yes,HIGH RISK
+298,Sales,13591,4,Yes,LOW RISK
+299,Sales,6696,1,No,MEDIUM RISK
+300,Research & Development,2058,3,No,MEDIUM RISK
+302,Sales,8865,4,No,LOW RISK
+303,Sales,5940,1,No,LOW RISK
+304,Research & Development,5914,2,No,LOW RISK
+305,Research & Development,2622,2,No,LOW RISK
+306,Research & Development,12185,4,Yes,LOW RISK
+307,Sales,10609,3,No,MEDIUM RISK
+308,Research & Development,4345,3,No,MEDIUM RISK
+309,Research & Development,2177,4,No,LOW RISK
+311,Sales,2793,4,No,LOW RISK
+312,Sales,7918,4,No,LOW RISK
+314,Sales,8789,3,No,MEDIUM RISK
+315,Research & Development,2389,4,Yes,LOW RISK
+316,Research & Development,3212,4,No,LOW RISK
+319,Research & Development,19232,4,No,LOW RISK
+321,Human Resources,2267,3,No,MEDIUM RISK
+323,Sales,19517,4,No,LOW RISK
+325,Research & Development,2436,4,Yes,LOW RISK
+327,Sales,16064,4,Yes,LOW RISK
+328,Research & Development,2707,1,No,LOW RISK
+329,Sales,19068,3,Yes,MEDIUM RISK
+330,Sales,3931,2,No,LOW RISK
+331,Research & Development,3730,3,Yes,MEDIUM RISK
+332,Research & Development,2232,3,No,MEDIUM RISK
+333,Sales,4465,4,No,MEDIUM RISK
+334,Research & Development,3072,1,No,LOW RISK
+335,Research & Development,3319,4,No,MEDIUM RISK
+336,Research & Development,19202,4,No,LOW RISK
+337,Research & Development,13675,3,No,MEDIUM RISK
+338,Research & Development,2911,4,No,LOW RISK
+339,Research & Development,5957,1,No,LOW RISK
+340,Research & Development,3920,1,No,LOW RISK
+341,Research & Development,6434,3,No,MEDIUM RISK
+342,Research & Development,10048,3,No,MEDIUM RISK
+343,Research & Development,10938,3,No,MEDIUM RISK
+346,Research & Development,2340,4,No,LOW RISK
+347,Research & Development,6545,1,Yes,LOW RISK
+349,Sales,6931,4,No,LOW RISK
+350,Research & Development,4898,3,No,MEDIUM RISK
+351,Research & Development,2593,1,Yes,HIGH RISK
+352,Research & Development,19436,3,No,MEDIUM RISK
+353,Research & Development,2723,4,No,LOW RISK
+355,Research & Development,3479,2,No,MEDIUM RISK
+359,Research & Development,2794,2,No,LOW RISK
+361,Sales,5249,4,No,LOW RISK
+362,Research & Development,2176,1,No,LOW RISK
+363,Sales,16872,2,Yes,LOW RISK
+364,Research & Development,3485,3,No,MEDIUM RISK
+366,Sales,6644,2,No,LOW RISK
+367,Research & Development,5582,4,No,MEDIUM RISK
+369,Research & Development,4000,1,No,LOW RISK
+372,Research & Development,13496,4,Yes,LOW RISK
+373,Research & Development,3210,4,No,LOW RISK
+374,Research & Development,19045,1,Yes,LOW RISK
+376,Research & Development,11849,2,Yes,MEDIUM RISK
+377,Research & Development,2070,4,No,LOW RISK
+378,Sales,6502,4,No,LOW RISK
+379,Research & Development,3230,3,No,MEDIUM RISK
+380,Research & Development,13603,4,Yes,LOW RISK
+381,Research & Development,11996,2,No,MEDIUM RISK
+382,Sales,5605,1,Yes,LOW RISK
+384,Research & Development,6397,2,No,LOW RISK
+385,Research & Development,19144,2,No,LOW RISK
+386,Research & Development,17584,3,Yes,MEDIUM RISK
+387,Sales,4907,3,No,MEDIUM RISK
+388,Sales,4554,4,No,LOW RISK
+389,Research & Development,5415,4,Yes,LOW RISK
+390,Research & Development,4741,1,Yes,HIGH RISK
+391,Research & Development,2115,4,No,LOW RISK
+392,Research & Development,3161,3,Yes,MEDIUM RISK
+393,Research & Development,5745,4,No,MEDIUM RISK
+394,Research & Development,2373,2,Yes,HIGH RISK
+395,Research & Development,3310,4,No,LOW RISK
+396,Research & Development,18665,1,Yes,LOW RISK
+397,Research & Development,4485,2,No,LOW RISK
+399,Sales,2789,2,No,LOW RISK
+401,Sales,5828,4,Yes,LOW RISK
+403,Research & Development,2326,4,Yes,LOW RISK
+404,Sales,13525,2,No,MEDIUM RISK
+405,Research & Development,1420,3,No,MEDIUM RISK
+406,Sales,8020,2,No,LOW RISK
+407,Research & Development,3688,4,No,LOW RISK
+408,Research & Development,5482,2,No,LOW RISK
+410,Sales,16015,2,No,LOW RISK
+411,Sales,1200,3,No,MEDIUM RISK
+412,Research & Development,5661,1,No,LOW RISK
+416,Sales,6929,4,No,LOW RISK
+417,Research & Development,9613,4,No,LOW RISK
+419,Research & Development,5674,2,No,MEDIUM RISK
+420,Sales,5484,3,No,MEDIUM RISK
+421,Research & Development,12061,2,No,MEDIUM RISK
+422,Research & Development,5660,3,Yes,MEDIUM RISK
+423,Research & Development,4821,4,Yes,LOW RISK
+424,Human Resources,6410,1,No,LOW RISK
+425,Research & Development,5210,1,No,LOW RISK
+426,Research & Development,2695,4,Yes,LOW RISK
+428,Research & Development,11878,2,No,LOW RISK
+429,Research & Development,17068,1,Yes,LOW RISK
+430,Research & Development,2455,4,No,LOW RISK
+431,Research & Development,13964,3,Yes,MEDIUM RISK
+433,Research & Development,4941,2,No,LOW RISK
+434,Research & Development,2478,2,Yes,HIGH RISK
+436,Sales,5228,2,Yes,LOW RISK
+437,Sales,4478,3,Yes,MEDIUM RISK
+438,Sales,7547,4,No,LOW RISK
+439,Research & Development,5055,4,No,LOW RISK
+440,Research & Development,3464,4,Yes,LOW RISK
+441,Research & Development,5775,4,No,MEDIUM RISK
+442,Research & Development,8943,3,No,MEDIUM RISK
+444,Research & Development,19272,4,No,LOW RISK
+445,Sales,5238,3,Yes,MEDIUM RISK
+446,Sales,4682,4,No,LOW RISK
+447,Research & Development,18300,3,No,MEDIUM RISK
+448,Research & Development,5257,3,No,MEDIUM RISK
+449,Sales,6349,2,Yes,LOW RISK
+450,Research & Development,4869,3,No,MEDIUM RISK
+451,Research & Development,9985,1,No,LOW RISK
+452,Research & Development,3697,4,No,LOW RISK
+453,Sales,7457,4,Yes,LOW RISK
+454,Research & Development,2119,1,Yes,HIGH RISK
+455,Research & Development,3983,4,No,LOW RISK
+456,Sales,6118,3,No,MEDIUM RISK
+458,Sales,6214,2,No,LOW RISK
+460,Research & Development,6347,4,No,LOW RISK
+461,Research & Development,11510,4,Yes,LOW RISK
+462,Research & Development,7143,4,Yes,LOW RISK
+463,Sales,8268,2,Yes,LOW RISK
+464,Research & Development,8095,2,No,LOW RISK
+465,Research & Development,2904,4,No,MEDIUM RISK
+466,Research & Development,6032,2,Yes,LOW RISK
+467,Sales,2976,3,No,MEDIUM RISK
+468,Research & Development,15992,4,No,MEDIUM RISK
+469,Sales,4649,3,No,MEDIUM RISK
+470,Human Resources,2696,3,Yes,MEDIUM RISK
+471,Research & Development,2370,2,No,LOW RISK
+473,Sales,12504,3,No,MEDIUM RISK
+474,Research & Development,5974,1,Yes,LOW RISK
+475,Sales,4736,3,Yes,MEDIUM RISK
+476,Sales,5296,3,No,MEDIUM RISK
+477,Research & Development,6781,4,No,LOW RISK
+478,Sales,2174,2,Yes,HIGH RISK
+479,Sales,6653,4,No,LOW RISK
+481,Sales,9699,4,No,LOW RISK
+482,Research & Development,6755,3,No,MEDIUM RISK
+483,Research & Development,2213,3,Yes,MEDIUM RISK
+484,Sales,2610,4,No,LOW RISK
+485,Sales,2851,3,Yes,MEDIUM RISK
+486,Research & Development,3452,1,No,LOW RISK
+487,Research & Development,5258,3,No,MEDIUM RISK
+488,Sales,9355,2,No,LOW RISK
+491,Research & Development,10496,4,No,LOW RISK
+492,Sales,6380,3,Yes,MEDIUM RISK
+493,Research & Development,2657,2,Yes,HIGH RISK
+494,Sales,2716,2,No,LOW RISK
+495,Research & Development,2201,4,No,MEDIUM RISK
+496,Research & Development,6540,2,No,LOW RISK
+497,Research & Development,3816,2,No,LOW RISK
+498,Sales,5253,4,No,LOW RISK
+499,Research & Development,10965,3,No,MEDIUM RISK
+500,Sales,4936,4,No,LOW RISK
+501,Research & Development,2543,3,No,MEDIUM RISK
+502,Sales,5304,4,Yes,LOW RISK
+505,Research & Development,16659,4,Yes,LOW RISK
+507,Sales,4260,3,Yes,MEDIUM RISK
+508,Sales,2476,2,No,LOW RISK
+510,Research & Development,3102,1,No,LOW RISK
+511,Research & Development,2244,2,No,LOW RISK
+513,Sales,7596,3,No,MEDIUM RISK
+514,Research & Development,2285,4,Yes,LOW RISK
+515,Research & Development,3034,1,No,LOW RISK
+516,Sales,5715,2,No,LOW RISK
+517,Research & Development,2576,1,No,LOW RISK
+518,Research & Development,4197,2,Yes,HIGH RISK
+520,Research & Development,14336,2,No,LOW RISK
+521,Research & Development,3448,3,No,MEDIUM RISK
+522,Research & Development,19406,1,No,LOW RISK
+523,Sales,6538,3,No,MEDIUM RISK
+524,Research & Development,4306,1,No,LOW RISK
+525,Research & Development,2258,4,No,MEDIUM RISK
+526,Research & Development,4522,3,Yes,MEDIUM RISK
+527,Sales,4487,4,Yes,LOW RISK
+529,Research & Development,4449,3,Yes,MEDIUM RISK
+530,Research & Development,2218,1,No,LOW RISK
+531,Research & Development,19197,3,Yes,MEDIUM RISK
+532,Sales,13212,1,No,LOW RISK
+533,Sales,6577,3,No,MEDIUM RISK
+534,Sales,8392,1,No,LOW RISK
+536,Research & Development,4558,1,No,LOW RISK
+538,Research & Development,4031,1,No,LOW RISK
+543,Research & Development,7969,3,Yes,MEDIUM RISK
+544,Research & Development,2654,4,No,LOW RISK
+546,Research & Development,16555,4,No,LOW RISK
+547,Research & Development,4556,3,No,MEDIUM RISK
+548,Research & Development,6091,4,No,LOW RISK
+549,Research & Development,19566,1,No,LOW RISK
+550,Research & Development,4810,3,No,MEDIUM RISK
+551,Research & Development,4523,4,No,MEDIUM RISK
+554,Sales,3202,2,Yes,HIGH RISK
+555,Sales,2351,3,No,MEDIUM RISK
+556,Research & Development,1702,4,Yes,LOW RISK
+558,Sales,18041,3,No,MEDIUM RISK
+560,Research & Development,2886,4,No,MEDIUM RISK
+562,Research & Development,2097,4,No,LOW RISK
+564,Research & Development,11935,3,No,MEDIUM RISK
+565,Research & Development,2546,2,No,MEDIUM RISK
+566,Human Resources,2564,4,No,LOW RISK
+567,Sales,8412,1,No,MEDIUM RISK
+568,Sales,14118,4,No,MEDIUM RISK
+569,Research & Development,17046,3,No,MEDIUM RISK
+571,Research & Development,2564,4,No,LOW RISK
+573,Sales,10266,1,No,MEDIUM RISK
+574,Research & Development,5070,4,No,LOW RISK
+575,Research & Development,17861,3,No,MEDIUM RISK
+577,Research & Development,4230,3,No,MEDIUM RISK
+578,Research & Development,3780,3,No,MEDIUM RISK
+579,Research & Development,2768,3,No,MEDIUM RISK
+580,Sales,9071,4,Yes,LOW RISK
+581,Research & Development,10648,2,No,LOW RISK
+582,Research & Development,13610,3,Yes,MEDIUM RISK
+584,Research & Development,3408,4,No,LOW RISK
+585,Sales,2983,2,No,LOW RISK
+586,Research & Development,7632,3,Yes,MEDIUM RISK
+587,Research & Development,9824,3,No,MEDIUM RISK
+590,Human Resources,9950,1,Yes,MEDIUM RISK
+591,Research & Development,2093,3,No,MEDIUM RISK
+592,Sales,9980,4,No,LOW RISK
+593,Research & Development,3894,3,No,MEDIUM RISK
+595,Sales,4051,4,No,LOW RISK
+597,Sales,16835,2,No,LOW RISK
+599,Sales,6230,4,No,LOW RISK
+600,Sales,4717,3,No,MEDIUM RISK
+601,Research & Development,13237,3,No,MEDIUM RISK
+602,Research & Development,3755,3,No,MEDIUM RISK
+604,Sales,6582,4,Yes,LOW RISK
+605,Research & Development,7406,1,Yes,MEDIUM RISK
+606,Sales,4805,2,No,LOW RISK
+608,Human Resources,2741,3,Yes,MEDIUM RISK
+611,Research & Development,4262,4,No,LOW RISK
+612,Research & Development,16184,3,No,MEDIUM RISK
+613,Sales,11557,4,No,LOW RISK
+614,Sales,1878,2,Yes,HIGH RISK
+615,Sales,10932,1,No,MEDIUM RISK
+616,Research & Development,6811,3,Yes,MEDIUM RISK
+618,Sales,4306,3,No,MEDIUM RISK
+620,Sales,4859,3,No,MEDIUM RISK
+621,Sales,5337,4,No,MEDIUM RISK
+622,Research & Development,2340,4,Yes,MEDIUM RISK
+623,Research & Development,7491,4,No,LOW RISK
+624,Research & Development,10527,3,No,MEDIUM RISK
+625,Sales,16595,1,No,LOW RISK
+626,Sales,8834,2,No,LOW RISK
+630,Research & Development,5577,1,Yes,LOW RISK
+631,Sales,4707,3,No,MEDIUM RISK
+632,Sales,2400,4,No,MEDIUM RISK
+634,Research & Development,9824,3,No,MEDIUM RISK
+635,Research & Development,6447,2,No,LOW RISK
+638,Research & Development,19502,3,Yes,MEDIUM RISK
+639,Research & Development,2725,4,Yes,MEDIUM RISK
+641,Sales,6272,2,No,MEDIUM RISK
+643,Research & Development,2127,2,No,LOW RISK
+644,Human Resources,18200,2,No,LOW RISK
+645,Sales,2096,3,No,MEDIUM RISK
+647,Research & Development,2886,3,Yes,MEDIUM RISK
+648,Sales,2033,1,No,LOW RISK
+649,Research & Development,3622,4,Yes,LOW RISK
+650,Sales,4233,1,No,LOW RISK
+652,Research & Development,3681,4,No,MEDIUM RISK
+653,Sales,5460,4,No,LOW RISK
+655,Research & Development,2187,3,No,MEDIUM RISK
+656,Sales,9602,3,Yes,MEDIUM RISK
+657,Research & Development,2836,2,No,LOW RISK
+659,Research & Development,4089,4,No,LOW RISK
+661,Research & Development,16627,4,Yes,LOW RISK
+662,Research & Development,2619,1,No,LOW RISK
+663,Research & Development,5679,3,Yes,MEDIUM RISK
+664,Research & Development,15402,1,No,LOW RISK
+665,Human Resources,5985,3,No,MEDIUM RISK
+666,Sales,2579,3,Yes,MEDIUM RISK
+667,Sales,3041,1,No,LOW RISK
+669,Sales,3447,3,No,MEDIUM RISK
+671,Research & Development,19513,4,Yes,LOW RISK
+675,Research & Development,2773,3,No,MEDIUM RISK
+677,Sales,7104,3,No,MEDIUM RISK
+679,Research & Development,6322,4,Yes,LOW RISK
+680,Research & Development,2083,3,No,MEDIUM RISK
+682,Sales,8381,1,No,LOW RISK
+683,Research & Development,2691,4,No,LOW RISK
+684,Sales,4286,1,No,MEDIUM RISK
+686,Research & Development,2659,4,Yes,LOW RISK
+689,Research & Development,9434,3,No,MEDIUM RISK
+690,Sales,5561,3,No,MEDIUM RISK
+691,Research & Development,6646,4,No,LOW RISK
+692,Research & Development,7725,4,No,LOW RISK
+698,Human Resources,10725,2,No,LOW RISK
+699,Research & Development,8847,2,Yes,LOW RISK
+700,Research & Development,2045,4,No,LOW RISK
+701,Research & Development,1009,3,Yes,MEDIUM RISK
+702,Research & Development,3348,1,Yes,HIGH RISK
+704,Research & Development,1281,3,No,MEDIUM RISK
+705,Research & Development,2819,1,No,LOW RISK
+707,Sales,4851,2,No,LOW RISK
+709,Sales,4028,4,No,LOW RISK
+710,Research & Development,2720,4,No,LOW RISK
+712,Sales,8120,2,No,LOW RISK
+714,Sales,4647,4,Yes,LOW RISK
+715,Research & Development,4680,4,No,LOW RISK
+716,Research & Development,3221,3,Yes,MEDIUM RISK
+717,Research & Development,8621,2,No,LOW RISK
+720,Sales,4577,3,No,MEDIUM RISK
+721,Research & Development,4553,3,No,MEDIUM RISK
+722,Sales,5396,4,No,LOW RISK
+723,Sales,6796,3,Yes,MEDIUM RISK
+724,Research & Development,7625,4,No,LOW RISK
+725,Research & Development,7412,1,No,LOW RISK
+727,Research & Development,11159,4,No,LOW RISK
+728,Sales,4960,1,No,LOW RISK
+729,Sales,10475,1,Yes,LOW RISK
+730,Research & Development,14814,3,No,MEDIUM RISK
+731,Human Resources,19141,4,No,LOW RISK
+732,Sales,5405,1,No,LOW RISK
+733,Research & Development,8793,1,No,LOW RISK
+734,Human Resources,19189,3,No,MEDIUM RISK
+738,Sales,3875,2,No,LOW RISK
+741,Research & Development,2216,2,Yes,HIGH RISK
+742,Research & Development,11713,1,No,LOW RISK
+743,Research & Development,7861,3,Yes,MEDIUM RISK
+744,Research & Development,3708,3,No,MEDIUM RISK
+746,Sales,13770,3,Yes,MEDIUM RISK
+747,Sales,5304,4,No,MEDIUM RISK
+749,Sales,2642,3,No,MEDIUM RISK
+752,Research & Development,2759,3,Yes,MEDIUM RISK
+754,Sales,6804,4,No,LOW RISK
+757,Research & Development,6142,3,No,MEDIUM RISK
+758,Research & Development,2500,1,No,LOW RISK
+760,Human Resources,6389,2,No,LOW RISK
+762,Research & Development,11103,4,No,LOW RISK
+763,Research & Development,2342,4,Yes,LOW RISK
+764,Research & Development,6811,1,No,LOW RISK
+766,Sales,2297,2,No,LOW RISK
+769,Research & Development,2450,4,No,LOW RISK
+771,Research & Development,5093,1,No,LOW RISK
+772,Research & Development,5309,4,No,MEDIUM RISK
+773,Research & Development,3057,3,Yes,MEDIUM RISK
+775,Research & Development,5121,1,No,LOW RISK
+776,Sales,16856,1,No,LOW RISK
+780,Research & Development,2686,4,Yes,LOW RISK
+781,Sales,6180,4,No,MEDIUM RISK
+783,Sales,6632,3,No,MEDIUM RISK
+784,Research & Development,3505,3,No,MEDIUM RISK
+785,Sales,6397,3,Yes,MEDIUM RISK
+786,Sales,6274,4,No,LOW RISK
+787,Research & Development,19859,1,Yes,LOW RISK
+789,Sales,7587,1,No,LOW RISK
+791,Research & Development,4258,4,No,LOW RISK
+792,Research & Development,4364,4,No,LOW RISK
+793,Research & Development,4335,3,No,MEDIUM RISK
+796,Sales,5326,1,No,LOW RISK
+797,Research & Development,3280,4,No,LOW RISK
+799,Research & Development,5485,1,Yes,LOW RISK
+800,Sales,4342,4,No,LOW RISK
+802,Research & Development,2782,1,Yes,HIGH RISK
+803,Research & Development,5980,1,Yes,LOW RISK
+804,Research & Development,4381,1,No,LOW RISK
+805,Sales,2572,4,No,LOW RISK
+806,Research & Development,3833,3,No,MEDIUM RISK
+807,Research & Development,4244,2,No,LOW RISK
+808,Sales,6500,1,No,LOW RISK
+809,Research & Development,18430,4,No,LOW RISK
+811,Research & Development,1601,1,Yes,HIGH RISK
+812,Research & Development,2694,2,No,LOW RISK
+813,Research & Development,3149,3,No,MEDIUM RISK
+815,Research & Development,17639,3,No,MEDIUM RISK
+816,Research & Development,2319,1,Yes,HIGH RISK
+817,Research & Development,11691,3,No,MEDIUM RISK
+819,Sales,5324,1,No,LOW RISK
+820,Research & Development,16752,4,Yes,LOW RISK
+823,Research & Development,5228,2,No,LOW RISK
+824,Research & Development,2700,3,No,MEDIUM RISK
+825,Research & Development,19246,2,Yes,LOW RISK
+826,Research & Development,2506,3,No,MEDIUM RISK
+827,Research & Development,6062,4,Yes,LOW RISK
+828,Research & Development,4382,3,No,MEDIUM RISK
+829,Human Resources,2143,2,No,LOW RISK
+830,Research & Development,6162,3,No,MEDIUM RISK
+832,Research & Development,5094,3,No,MEDIUM RISK
+833,Research & Development,6877,4,Yes,LOW RISK
+834,Research & Development,2274,3,No,MEDIUM RISK
+836,Research & Development,4434,2,No,MEDIUM RISK
+837,Research & Development,6288,1,No,LOW RISK
+838,Research & Development,2553,4,No,LOW RISK
+840,Sales,7654,4,No,LOW RISK
+842,Sales,5160,4,No,LOW RISK
+843,Research & Development,17159,1,No,LOW RISK
+844,Research & Development,12808,4,Yes,LOW RISK
+845,Research & Development,10221,3,No,MEDIUM RISK
+846,Sales,4779,2,Yes,HIGH RISK
+847,Human Resources,3737,4,No,LOW RISK
+848,Research & Development,2366,3,Yes,MEDIUM RISK
+850,Research & Development,1706,4,No,LOW RISK
+851,Sales,16307,3,No,MEDIUM RISK
+852,Research & Development,5933,2,No,LOW RISK
+854,Research & Development,3424,1,No,LOW RISK
+855,Sales,4037,1,No,LOW RISK
+856,Research & Development,2559,1,No,MEDIUM RISK
+857,Sales,6201,4,Yes,LOW RISK
+859,Sales,4403,4,No,LOW RISK
+861,Research & Development,3761,4,No,LOW RISK
+862,Sales,10934,4,Yes,LOW RISK
+864,Sales,10761,1,Yes,LOW RISK
+865,Research & Development,5175,3,No,MEDIUM RISK
+867,Research & Development,13826,4,No,MEDIUM RISK
+868,Sales,6334,3,No,MEDIUM RISK
+869,Human Resources,4936,4,No,LOW RISK
+872,Research & Development,4775,4,No,LOW RISK
+874,Research & Development,2818,4,Yes,LOW RISK
+875,Research & Development,2515,4,Yes,LOW RISK
+878,Human Resources,2342,1,No,LOW RISK
+879,Sales,4194,1,Yes,HIGH RISK
+880,Research & Development,10685,3,Yes,MEDIUM RISK
+881,Research & Development,2022,2,Yes,HIGH RISK
+882,Research & Development,2314,4,No,LOW RISK
+885,Sales,4256,1,No,LOW RISK
+887,Research & Development,3580,1,No,LOW RISK
+888,Research & Development,3162,4,No,LOW RISK
+889,Sales,6524,2,No,LOW RISK
+893,Sales,2899,2,No,LOW RISK
+894,Research & Development,5231,4,Yes,LOW RISK
+895,Research & Development,2356,4,Yes,LOW RISK
+896,Sales,2800,3,Yes,MEDIUM RISK
+897,Sales,11836,4,No,LOW RISK
+899,Research & Development,10903,2,No,MEDIUM RISK
+900,Sales,2973,4,No,MEDIUM RISK
+901,Research & Development,14275,4,No,MEDIUM RISK
+902,Research & Development,5562,4,No,LOW RISK
+903,Sales,4537,4,Yes,LOW RISK
+904,Sales,7642,2,Yes,LOW RISK
+905,Research & Development,17924,1,No,LOW RISK
+909,Human Resources,5204,4,No,LOW RISK
+910,Human Resources,2277,2,Yes,HIGH RISK
+911,Research & Development,2795,4,Yes,MEDIUM RISK
+912,Research & Development,2532,4,No,LOW RISK
+913,Research & Development,2559,1,Yes,HIGH RISK
+916,Sales,4908,4,No,LOW RISK
+918,Research & Development,2380,4,Yes,LOW RISK
+920,Research & Development,4765,2,No,LOW RISK
+922,Sales,2044,3,No,MEDIUM RISK
+923,Research & Development,2693,4,No,LOW RISK
+924,Research & Development,6586,4,Yes,LOW RISK
+925,Sales,3294,4,Yes,LOW RISK
+926,Research & Development,4171,3,Yes,MEDIUM RISK
+927,Research & Development,2778,4,Yes,LOW RISK
+930,Research & Development,2377,3,No,MEDIUM RISK
+932,Research & Development,2404,1,Yes,HIGH RISK
+933,Research & Development,2318,3,No,MEDIUM RISK
+934,Research & Development,2008,2,No,LOW RISK
+936,Sales,6244,3,No,MEDIUM RISK
+939,Research & Development,2799,1,Yes,HIGH RISK
+940,Research & Development,10552,2,Yes,LOW RISK
+941,Sales,2329,3,No,MEDIUM RISK
+942,Research & Development,4014,4,Yes,MEDIUM RISK
+944,Research & Development,7403,2,No,LOW RISK
+945,Research & Development,2259,3,No,MEDIUM RISK
+947,Sales,6932,3,No,MEDIUM RISK
+949,Research & Development,4678,4,No,LOW RISK
+950,Research & Development,13582,1,No,LOW RISK
+951,Research & Development,2332,2,No,LOW RISK
+952,Sales,2413,2,Yes,HIGH RISK
+954,Sales,9705,2,No,LOW RISK
+956,Sales,4294,1,No,LOW RISK
+957,Research & Development,4721,1,Yes,HIGH RISK
+958,Research & Development,2519,3,No,MEDIUM RISK
+959,Sales,2121,2,Yes,HIGH RISK
+960,Research & Development,2973,1,No,LOW RISK
+961,Research & Development,5855,4,Yes,LOW RISK
+964,Research & Development,3617,2,Yes,HIGH RISK
+966,Research & Development,6725,1,No,LOW RISK
+967,Sales,10325,4,Yes,LOW RISK
+969,Research & Development,6949,4,No,LOW RISK
+970,Sales,10609,3,No,MEDIUM RISK
+972,Research & Development,4447,2,No,LOW RISK
+974,Sales,2157,4,No,LOW RISK
+975,Sales,4601,3,No,MEDIUM RISK
+976,Research & Development,17099,4,No,LOW RISK
+977,Research & Development,2479,3,No,MEDIUM RISK
+981,Sales,14852,3,No,MEDIUM RISK
+982,Sales,7264,3,No,MEDIUM RISK
+983,Sales,5666,4,Yes,LOW RISK
+984,Sales,7823,4,No,LOW RISK
+985,Sales,7880,3,No,MEDIUM RISK
+986,Sales,13194,2,Yes,MEDIUM RISK
+987,Research & Development,5067,3,Yes,MEDIUM RISK
+990,Sales,5079,4,No,LOW RISK
+991,Research & Development,2321,1,Yes,HIGH RISK
+992,Sales,17444,3,No,MEDIUM RISK
+994,Research & Development,2404,1,Yes,HIGH RISK
+995,Research & Development,3452,4,No,LOW RISK
+996,Research & Development,2270,4,No,LOW RISK
+997,Research & Development,17399,4,No,LOW RISK
+998,Research & Development,5488,2,Yes,LOW RISK
+999,Research & Development,19419,3,No,MEDIUM RISK
+1001,Research & Development,2811,2,No,LOW RISK
+1002,Research & Development,3633,1,Yes,HIGH RISK
+1003,Sales,4163,4,Yes,LOW RISK
+1004,Research & Development,2132,3,Yes,MEDIUM RISK
+1005,Research & Development,13973,3,Yes,MEDIUM RISK
+1006,Research & Development,2684,3,No,MEDIUM RISK
+1007,Research & Development,10845,3,No,MEDIUM RISK
+1009,Research & Development,4377,3,No,MEDIUM RISK
+1010,Research & Development,3743,2,Yes,HIGH RISK
+1011,Research & Development,4148,1,No,LOW RISK
+1012,Research & Development,1051,4,No,LOW RISK
+1013,Research & Development,10739,3,No,MEDIUM RISK
+1014,Research & Development,10388,3,Yes,MEDIUM RISK
+1015,Research & Development,11416,1,Yes,LOW RISK
+1016,Research & Development,2600,1,Yes,HIGH RISK
+1017,Research & Development,2422,2,No,LOW RISK
+1018,Research & Development,5472,4,No,LOW RISK
+1019,Research & Development,2451,1,No,LOW RISK
+1022,Research & Development,4240,3,No,MEDIUM RISK
+1024,Research & Development,10999,3,No,MEDIUM RISK
+1025,Research & Development,5003,3,No,MEDIUM RISK
+1026,Research & Development,12742,4,No,LOW RISK
+1027,Research & Development,4227,4,No,LOW RISK
+1028,Research & Development,3917,4,No,LOW RISK
+1029,Sales,18303,3,No,MEDIUM RISK
+1030,Research & Development,2380,4,No,LOW RISK
+1032,Research & Development,13726,4,Yes,LOW RISK
+1033,Research & Development,4777,2,No,LOW RISK
+1034,Research & Development,6385,2,Yes,LOW RISK
+1035,Research & Development,19973,3,No,MEDIUM RISK
+1036,Sales,6861,4,Yes,LOW RISK
+1037,Sales,4969,1,No,MEDIUM RISK
+1038,Sales,19845,4,No,LOW RISK
+1039,Sales,13320,4,Yes,MEDIUM RISK
+1040,Sales,6347,3,No,MEDIUM RISK
+1042,Research & Development,2743,1,No,LOW RISK
+1043,Research & Development,10880,1,Yes,MEDIUM RISK
+1044,Sales,2342,4,No,LOW RISK
+1045,Sales,17650,4,No,LOW RISK
+1046,Research & Development,4025,3,No,MEDIUM RISK
+1047,Sales,9725,4,No,LOW RISK
+1048,Sales,11904,4,Yes,LOW RISK
+1049,Human Resources,2177,2,No,MEDIUM RISK
+1050,Sales,7525,2,No,LOW RISK
+1052,Research & Development,4834,3,No,MEDIUM RISK
+1053,Research & Development,2042,1,Yes,HIGH RISK
+1055,Sales,2220,3,Yes,MEDIUM RISK
+1056,Sales,1052,2,No,LOW RISK
+1060,Research & Development,2821,3,No,MEDIUM RISK
+1061,Research & Development,19237,3,Yes,MEDIUM RISK
+1062,Research & Development,4107,2,No,LOW RISK
+1066,Sales,8396,1,No,MEDIUM RISK
+1068,Research & Development,2007,3,No,MEDIUM RISK
+1069,Research & Development,19627,4,No,LOW RISK
+1070,Sales,10686,3,No,MEDIUM RISK
+1071,Research & Development,2942,3,No,MEDIUM RISK
+1073,Research & Development,8858,4,No,LOW RISK
+1074,Research & Development,16756,1,No,LOW RISK
+1076,Sales,10798,4,No,MEDIUM RISK
+1077,Sales,2323,4,Yes,LOW RISK
+1079,Research & Development,1416,1,No,LOW RISK
+1080,Research & Development,4615,1,Yes,HIGH RISK
+1081,Research & Development,2461,3,Yes,MEDIUM RISK
+1082,Research & Development,8722,1,No,MEDIUM RISK
+1083,Research & Development,3955,1,No,LOW RISK
+1084,Research & Development,9957,1,No,LOW RISK
+1085,Research & Development,3376,3,No,MEDIUM RISK
+1088,Research & Development,8823,3,No,MEDIUM RISK
+1092,Research & Development,10322,4,No,LOW RISK
+1094,Research & Development,4621,3,No,MEDIUM RISK
+1096,Research & Development,10976,2,No,LOW RISK
+1097,Research & Development,3660,3,No,MEDIUM RISK
+1098,Human Resources,10482,1,No,LOW RISK
+1099,Research & Development,7119,4,No,LOW RISK
+1100,Sales,9582,1,Yes,LOW RISK
+1101,Research & Development,4508,3,No,MEDIUM RISK
+1102,Research & Development,2207,3,No,MEDIUM RISK
+1103,Research & Development,7756,4,No,LOW RISK
+1105,Sales,6694,4,Yes,LOW RISK
+1106,Research & Development,3691,4,Yes,LOW RISK
+1107,Research & Development,2377,3,No,MEDIUM RISK
+1108,Research & Development,2313,2,Yes,HIGH RISK
+1109,Research & Development,17665,1,No,LOW RISK
+1111,Research & Development,2596,2,No,LOW RISK
+1113,Sales,4728,3,Yes,MEDIUM RISK
+1114,Sales,4302,2,No,LOW RISK
+1115,Research & Development,2979,4,No,LOW RISK
+1116,Research & Development,16885,4,No,LOW RISK
+1117,Sales,5593,3,No,MEDIUM RISK
+1118,Research & Development,10445,2,No,LOW RISK
+1119,Sales,8740,3,Yes,MEDIUM RISK
+1120,Research & Development,2514,4,No,MEDIUM RISK
+1121,Research & Development,7655,2,No,LOW RISK
+1124,Sales,17465,3,No,MEDIUM RISK
+1125,Sales,7351,2,No,LOW RISK
+1126,Research & Development,10820,1,No,MEDIUM RISK
+1127,Research & Development,12169,4,No,LOW RISK
+1128,Research & Development,19626,3,No,MEDIUM RISK
+1131,Research & Development,2070,2,Yes,HIGH RISK
+1132,Research & Development,6782,2,No,LOW RISK
+1133,Research & Development,7779,4,No,LOW RISK
+1135,Sales,2791,4,No,LOW RISK
+1136,Research & Development,3201,2,No,LOW RISK
+1137,Sales,4968,4,No,LOW RISK
+1138,Sales,13120,2,No,LOW RISK
+1140,Research & Development,4033,3,No,MEDIUM RISK
+1143,Research & Development,3291,2,No,LOW RISK
+1148,Research & Development,4272,4,No,MEDIUM RISK
+1150,Research & Development,5056,4,Yes,LOW RISK
+1152,Human Resources,2844,3,No,MEDIUM RISK
+1154,Research & Development,2703,3,Yes,MEDIUM RISK
+1156,Research & Development,1904,3,No,MEDIUM RISK
+1157,Sales,8224,1,Yes,LOW RISK
+1158,Research & Development,4766,4,Yes,LOW RISK
+1160,Research & Development,2610,3,No,MEDIUM RISK
+1161,Research & Development,5731,4,No,MEDIUM RISK
+1162,Research & Development,2539,3,No,MEDIUM RISK
+1163,Sales,5714,3,No,MEDIUM RISK
+1164,Human Resources,4323,3,No,MEDIUM RISK
+1165,Sales,7336,1,No,MEDIUM RISK
+1166,Research & Development,13499,3,No,MEDIUM RISK
+1167,Sales,13758,1,Yes,LOW RISK
+1171,Sales,5155,1,No,LOW RISK
+1172,Research & Development,2258,3,No,MEDIUM RISK
+1173,Research & Development,3597,2,No,MEDIUM RISK
+1175,Research & Development,2515,4,Yes,LOW RISK
+1177,Research & Development,4420,4,No,LOW RISK
+1179,Sales,6578,3,No,MEDIUM RISK
+1180,Research & Development,4422,4,Yes,MEDIUM RISK
+1182,Research & Development,10274,2,No,LOW RISK
+1184,Research & Development,5343,1,No,LOW RISK
+1185,Research & Development,2376,4,No,LOW RISK
+1188,Sales,5346,3,No,MEDIUM RISK
+1190,Sales,2827,1,No,LOW RISK
+1191,Research & Development,19943,1,No,LOW RISK
+1192,Research & Development,3131,4,No,LOW RISK
+1193,Research & Development,2552,1,No,LOW RISK
+1195,Research & Development,4477,3,Yes,MEDIUM RISK
+1196,Research & Development,6474,4,No,LOW RISK
+1198,Research & Development,3033,3,No,MEDIUM RISK
+1200,Research & Development,2936,3,Yes,MEDIUM RISK
+1201,Research & Development,18606,3,No,MEDIUM RISK
+1202,Research & Development,2168,4,Yes,LOW RISK
+1203,Research & Development,2853,4,Yes,LOW RISK
+1204,Sales,17048,1,No,LOW RISK
+1206,Research & Development,2290,3,No,MEDIUM RISK
+1207,Human Resources,3600,3,No,MEDIUM RISK
+1210,Research & Development,2107,1,No,LOW RISK
+1211,Sales,4115,1,No,MEDIUM RISK
+1212,Sales,4327,2,No,LOW RISK
+1215,Research & Development,17856,1,No,LOW RISK
+1216,Research & Development,3196,1,No,LOW RISK
+1217,Research & Development,19081,2,No,LOW RISK
+1218,Sales,8966,1,Yes,LOW RISK
+1219,Research & Development,2210,2,No,LOW RISK
+1220,Sales,4539,3,No,MEDIUM RISK
+1221,Research & Development,2741,3,No,MEDIUM RISK
+1224,Research & Development,3491,3,No,MEDIUM RISK
+1225,Research & Development,4541,4,No,MEDIUM RISK
+1226,Sales,2678,4,No,MEDIUM RISK
+1228,Research & Development,7379,4,No,LOW RISK
+1231,Human Resources,6272,1,No,LOW RISK
+1233,Sales,5220,4,Yes,LOW RISK
+1234,Research & Development,2743,2,No,LOW RISK
+1235,Research & Development,4998,3,Yes,MEDIUM RISK
+1237,Research & Development,10252,1,Yes,LOW RISK
+1238,Research & Development,2781,4,No,LOW RISK
+1239,Sales,6852,2,No,LOW RISK
+1240,Sales,4950,4,No,LOW RISK
+1241,Research & Development,3579,2,Yes,HIGH RISK
+1242,Research & Development,13191,1,Yes,MEDIUM RISK
+1243,Sales,10377,4,Yes,LOW RISK
+1244,Research & Development,2235,1,Yes,HIGH RISK
+1245,Research & Development,10502,3,No,MEDIUM RISK
+1246,Research & Development,2011,4,No,LOW RISK
+1248,Research & Development,1859,2,Yes,HIGH RISK
+1249,Research & Development,3760,4,No,LOW RISK
+1250,Research & Development,17779,4,No,LOW RISK
+1251,Research & Development,6833,1,Yes,LOW RISK
+1252,Research & Development,6812,1,No,MEDIUM RISK
+1254,Sales,5171,4,No,LOW RISK
+1255,Research & Development,19740,4,No,LOW RISK
+1256,Research & Development,18711,3,No,MEDIUM RISK
+1257,Research & Development,3692,2,No,LOW RISK
+1258,Research & Development,2559,2,No,LOW RISK
+1259,Research & Development,2517,3,No,MEDIUM RISK
+1260,Research & Development,6623,4,Yes,LOW RISK
+1263,Research & Development,18265,4,No,LOW RISK
+1264,Research & Development,16124,4,No,LOW RISK
+1265,Research & Development,2585,3,No,MEDIUM RISK
+1267,Sales,18213,2,No,LOW RISK
+1268,Sales,8380,3,Yes,MEDIUM RISK
+1269,Research & Development,2994,4,Yes,MEDIUM RISK
+1270,Research & Development,1223,3,No,MEDIUM RISK
+1273,Sales,1118,4,Yes,MEDIUM RISK
+1275,Research & Development,2875,4,Yes,LOW RISK
+1277,Sales,18824,2,Yes,LOW RISK
+1278,Research & Development,13577,2,Yes,LOW RISK
+1279,Research & Development,2625,3,No,MEDIUM RISK
+1280,Sales,18789,2,No,LOW RISK
+1281,Sales,4538,1,Yes,HIGH RISK
+1282,Sales,19847,2,Yes,LOW RISK
+1283,Research & Development,10512,4,No,LOW RISK
+1285,Research & Development,4444,2,No,LOW RISK
+1286,Research & Development,2154,3,Yes,MEDIUM RISK
+1288,Research & Development,19190,1,No,LOW RISK
+1289,Human Resources,4490,2,No,LOW RISK
+1291,Research & Development,3506,3,Yes,MEDIUM RISK
+1292,Research & Development,2372,2,Yes,HIGH RISK
+1293,Sales,10231,4,No,LOW RISK
+1294,Research & Development,5410,2,Yes,LOW RISK
+1295,Research & Development,7978,4,No,LOW RISK
+1296,Research & Development,3867,4,Yes,LOW RISK
+1297,Research & Development,2838,3,No,MEDIUM RISK
+1298,Research & Development,4695,3,Yes,MEDIUM RISK
+1299,Research & Development,3339,3,Yes,MEDIUM RISK
+1301,Research & Development,2080,1,No,LOW RISK
+1303,Research & Development,2096,2,No,LOW RISK
+1304,Sales,6209,4,No,LOW RISK
+1306,Research & Development,18061,2,No,MEDIUM RISK
+1307,Research & Development,17123,2,Yes,LOW RISK
+1308,Research & Development,2372,3,No,MEDIUM RISK
+1309,Research & Development,4883,3,No,MEDIUM RISK
+1310,Research & Development,3904,1,No,MEDIUM RISK
+1311,Research & Development,4627,4,No,LOW RISK
+1312,Research & Development,7094,3,No,MEDIUM RISK
+1314,Human Resources,3423,1,No,LOW RISK
+1315,Research & Development,6674,4,No,LOW RISK
+1317,Research & Development,16880,1,Yes,MEDIUM RISK
+1318,Sales,9094,2,Yes,MEDIUM RISK
+1319,Sales,8446,2,Yes,LOW RISK
+1321,Research & Development,11916,1,Yes,LOW RISK
+1322,Research & Development,4534,3,No,MEDIUM RISK
+1324,Sales,9852,3,Yes,MEDIUM RISK
+1329,Sales,6151,2,No,LOW RISK
+1331,Sales,2302,2,Yes,HIGH RISK
+1333,Research & Development,2362,1,No,LOW RISK
+1334,Research & Development,17861,3,Yes,MEDIUM RISK
+1336,Research & Development,19187,3,No,MEDIUM RISK
+1338,Human Resources,19717,2,No,LOW RISK
+1340,Research & Development,3544,3,No,MEDIUM RISK
+1344,Research & Development,8500,4,No,LOW RISK
+1346,Research & Development,4661,4,No,LOW RISK
+1349,Sales,4103,1,No,LOW RISK
+1350,Research & Development,4249,3,Yes,MEDIUM RISK
+1352,Human Resources,14026,2,Yes,LOW RISK
+1355,Sales,6893,1,No,LOW RISK
+1356,Sales,6125,1,No,LOW RISK
+1358,Research & Development,3669,4,No,LOW RISK
+1360,Research & Development,10008,1,Yes,LOW RISK
+1361,Research & Development,2387,2,No,LOW RISK
+1362,Sales,4639,1,No,LOW RISK
+1363,Research & Development,7898,4,No,LOW RISK
+1364,Sales,2534,4,No,LOW RISK
+1367,Research & Development,13142,2,No,LOW RISK
+1368,Research & Development,1611,4,No,LOW RISK
+1369,Research & Development,5363,4,No,LOW RISK
+1371,Sales,5071,4,No,LOW RISK
+1372,Sales,13695,3,Yes,MEDIUM RISK
+1373,Research & Development,13402,2,Yes,MEDIUM RISK
+1374,Research & Development,2029,3,No,MEDIUM RISK
+1375,Research & Development,6377,3,No,MEDIUM RISK
+1377,Research & Development,5429,3,No,MEDIUM RISK
+1379,Sales,2785,4,No,LOW RISK
+1380,Sales,4614,3,Yes,MEDIUM RISK
+1382,Research & Development,2610,3,No,MEDIUM RISK
+1383,Research & Development,6687,4,No,LOW RISK
+1387,Sales,4724,1,No,MEDIUM RISK
+1389,Research & Development,6179,3,Yes,MEDIUM RISK
+1390,Sales,6120,4,Yes,MEDIUM RISK
+1391,Sales,10596,2,No,LOW RISK
+1392,Research & Development,5467,4,Yes,MEDIUM RISK
+1394,Research & Development,2996,3,Yes,MEDIUM RISK
+1395,Sales,9998,4,No,LOW RISK
+1396,Sales,4078,2,Yes,HIGH RISK
+1397,Research & Development,10920,3,No,MEDIUM RISK
+1399,Sales,6232,3,No,MEDIUM RISK
+1401,Research & Development,13247,3,Yes,MEDIUM RISK
+1402,Research & Development,4081,3,Yes,MEDIUM RISK
+1403,Sales,5769,4,Yes,LOW RISK
+1405,Research & Development,2394,3,Yes,MEDIUM RISK
+1407,Research & Development,3904,4,No,LOW RISK
+1408,Human Resources,16799,1,No,LOW RISK
+1409,Research & Development,2950,1,No,LOW RISK
+1411,Research & Development,3629,3,No,MEDIUM RISK
+1412,Research & Development,9362,4,No,LOW RISK
+1415,Research & Development,3229,4,No,LOW RISK
+1417,Research & Development,3578,1,No,LOW RISK
+1419,Human Resources,7988,1,No,LOW RISK
+1420,Research & Development,4284,1,No,MEDIUM RISK
+1421,Research & Development,7553,4,Yes,LOW RISK
+1422,Research & Development,17328,4,No,LOW RISK
+1423,Research & Development,19701,1,Yes,LOW RISK
+1424,Research & Development,14732,4,No,LOW RISK
+1425,Sales,9278,2,Yes,LOW RISK
+1427,Sales,1359,3,No,MEDIUM RISK
+1428,Sales,4779,1,No,LOW RISK
+1430,Research & Development,16422,2,No,LOW RISK
+1431,Research & Development,2996,1,No,LOW RISK
+1433,Research & Development,1261,2,No,LOW RISK
+1434,Research & Development,2099,1,No,LOW RISK
+1435,Research & Development,5810,4,No,LOW RISK
+1436,Sales,5647,1,No,LOW RISK
+1438,Research & Development,3420,4,No,LOW RISK
+1439,Sales,4400,1,No,LOW RISK
+1440,Research & Development,3500,3,No,MEDIUM RISK
+1441,Research & Development,2066,1,No,LOW RISK
+1443,Research & Development,17169,3,No,MEDIUM RISK
+1445,Sales,4162,3,Yes,MEDIUM RISK
+1446,Sales,9204,4,No,LOW RISK
+1447,Research & Development,3294,2,No,LOW RISK
+1448,Research & Development,2127,3,Yes,MEDIUM RISK
+1449,Research & Development,3975,3,No,MEDIUM RISK
+1453,Sales,10793,4,No,LOW RISK
+1457,Sales,10096,4,No,LOW RISK
+1458,Research & Development,3646,1,Yes,HIGH RISK
+1459,Research & Development,7446,2,No,LOW RISK
+1460,Research & Development,10851,1,Yes,LOW RISK
+1461,Human Resources,2109,2,No,LOW RISK
+1464,Research & Development,3722,4,Yes,LOW RISK
+1465,Research & Development,9380,4,Yes,MEDIUM RISK
+1466,Sales,5486,1,No,LOW RISK
+1467,Human Resources,2742,3,No,MEDIUM RISK
+1468,Research & Development,13757,2,No,LOW RISK
+1469,Sales,8463,1,No,LOW RISK
+1471,Research & Development,3162,3,No,MEDIUM RISK
+1472,Research & Development,16598,2,No,LOW RISK
+1473,Research & Development,6651,3,No,MEDIUM RISK
+1474,Research & Development,2345,3,No,MEDIUM RISK
+1475,Research & Development,3420,2,No,LOW RISK
+1477,Sales,4373,1,No,LOW RISK
+1478,Sales,4759,1,No,LOW RISK
+1479,Sales,5301,3,No,MEDIUM RISK
+1480,Research & Development,3673,4,No,LOW RISK
+1481,Sales,4768,3,No,MEDIUM RISK
+1482,Research & Development,1274,3,No,MEDIUM RISK
+1483,Research & Development,4900,3,No,MEDIUM RISK
+1484,Research & Development,10466,2,No,LOW RISK
+1485,Research & Development,17007,1,No,LOW RISK
+1486,Sales,2909,3,No,MEDIUM RISK
+1487,Sales,5765,2,No,LOW RISK
+1489,Sales,4599,2,Yes,HIGH RISK
+1492,Sales,2404,3,No,MEDIUM RISK
+1494,Research & Development,3172,1,Yes,HIGH RISK
+1495,Sales,2033,2,No,LOW RISK
+1496,Research & Development,10209,3,Yes,MEDIUM RISK
+1497,Sales,8620,3,No,MEDIUM RISK
+1499,Human Resources,2064,3,No,MEDIUM RISK
+1501,Research & Development,4035,3,Yes,MEDIUM RISK
+1502,Research & Development,3838,2,No,LOW RISK
+1503,Sales,4591,3,Yes,MEDIUM RISK
+1504,Research & Development,2561,1,No,LOW RISK
+1506,Research & Development,1563,3,No,MEDIUM RISK
+1507,Sales,4898,1,No,LOW RISK
+1509,Research & Development,4789,1,No,LOW RISK
+1513,Research & Development,3180,2,No,LOW RISK
+1514,Research & Development,6549,2,No,MEDIUM RISK
+1515,Research & Development,6388,3,Yes,MEDIUM RISK
+1516,Research & Development,11244,4,No,LOW RISK
+1520,Research & Development,16032,4,No,LOW RISK
+1522,Research & Development,2362,1,No,LOW RISK
+1523,Research & Development,16328,1,No,MEDIUM RISK
+1525,Research & Development,8376,2,No,LOW RISK
+1527,Sales,16606,2,No,LOW RISK
+1529,Research & Development,8606,2,No,LOW RISK
+1533,Research & Development,2272,3,No,MEDIUM RISK
+1534,Research & Development,2018,1,No,LOW RISK
+1535,Sales,7083,3,Yes,MEDIUM RISK
+1537,Research & Development,4084,3,No,MEDIUM RISK
+1539,Research & Development,14411,4,Yes,MEDIUM RISK
+1541,Sales,2308,3,Yes,MEDIUM RISK
+1542,Research & Development,4841,2,No,LOW RISK
+1543,Research & Development,4285,4,No,LOW RISK
+1544,Research & Development,9715,1,No,LOW RISK
+1545,Research & Development,4320,2,No,MEDIUM RISK
+1546,Research & Development,2132,4,No,MEDIUM RISK
+1547,Research & Development,10124,4,Yes,LOW RISK
+1548,Sales,5473,1,No,LOW RISK
+1549,Research & Development,5207,3,Yes,MEDIUM RISK
+1550,Human Resources,16437,4,Yes,LOW RISK
+1551,Research & Development,2296,1,No,MEDIUM RISK
+1552,Research & Development,4069,4,Yes,LOW RISK
+1553,Research & Development,7441,2,No,LOW RISK
+1554,Sales,2430,3,No,MEDIUM RISK
+1555,Research & Development,5878,2,No,LOW RISK
+1556,Sales,2644,4,Yes,LOW RISK
+1557,Sales,6439,3,No,MEDIUM RISK
+1558,Research & Development,2451,3,No,MEDIUM RISK
+1560,Sales,6392,1,No,LOW RISK
+1562,Sales,9714,1,No,LOW RISK
+1563,Human Resources,6077,3,No,MEDIUM RISK
+1564,Research & Development,2450,1,No,LOW RISK
+1568,Sales,9250,2,No,MEDIUM RISK
+1569,Research & Development,2074,1,Yes,HIGH RISK
+1572,Research & Development,10169,4,No,LOW RISK
+1573,Research & Development,4855,2,No,LOW RISK
+1574,Research & Development,4087,1,No,LOW RISK
+1576,Research & Development,2367,1,No,LOW RISK
+1577,Research & Development,2972,4,No,LOW RISK
+1578,Sales,19586,4,No,MEDIUM RISK
+1580,Research & Development,5484,4,No,LOW RISK
+1581,Research & Development,2061,4,No,LOW RISK
+1582,Sales,9924,2,No,LOW RISK
+1583,Sales,4198,2,No,LOW RISK
+1585,Sales,6815,3,No,MEDIUM RISK
+1586,Research & Development,4723,1,Yes,HIGH RISK
+1587,Research & Development,6142,3,Yes,MEDIUM RISK
+1588,Sales,8237,3,No,MEDIUM RISK
+1590,Research & Development,8853,4,No,LOW RISK
+1591,Sales,19331,3,Yes,MEDIUM RISK
+1592,Research & Development,2073,3,No,MEDIUM RISK
+1594,Research & Development,5562,1,Yes,LOW RISK
+1595,Research & Development,19613,4,No,LOW RISK
+1596,Research & Development,3407,3,No,MEDIUM RISK
+1597,Research & Development,5063,3,No,MEDIUM RISK
+1598,Sales,4639,1,No,LOW RISK
+1599,Research & Development,4876,2,No,MEDIUM RISK
+1601,Research & Development,2690,4,No,LOW RISK
+1602,Sales,17567,1,No,LOW RISK
+1604,Research & Development,2408,2,Yes,HIGH RISK
+1605,Research & Development,2814,3,Yes,MEDIUM RISK
+1606,Research & Development,11245,3,Yes,MEDIUM RISK
+1607,Research & Development,3312,4,No,LOW RISK
+1608,Research & Development,19049,4,Yes,LOW RISK
+1609,Research & Development,2141,2,No,LOW RISK
+1611,Research & Development,5769,1,Yes,LOW RISK
+1612,Sales,4385,1,No,MEDIUM RISK
+1613,Sales,5332,1,No,LOW RISK
+1614,Research & Development,4663,3,Yes,MEDIUM RISK
+1615,Research & Development,4724,4,No,LOW RISK
+1617,Research & Development,3211,1,No,MEDIUM RISK
+1618,Research & Development,5377,1,No,LOW RISK
+1619,Research & Development,4066,1,No,LOW RISK
+1621,Research & Development,5208,1,No,LOW RISK
+1622,Research & Development,4877,1,No,MEDIUM RISK
+1623,Research & Development,3117,4,No,LOW RISK
+1624,Sales,1569,4,Yes,LOW RISK
+1625,Human Resources,19658,3,No,MEDIUM RISK
+1627,Research & Development,3069,3,No,MEDIUM RISK
+1628,Research & Development,10435,3,No,MEDIUM RISK
+1630,Research & Development,4148,3,No,MEDIUM RISK
+1631,Research & Development,5768,3,No,MEDIUM RISK
+1633,Research & Development,5042,3,No,MEDIUM RISK
+1635,Research & Development,5770,4,No,LOW RISK
+1638,Research & Development,7756,3,Yes,MEDIUM RISK
+1639,Sales,10306,1,No,LOW RISK
+1640,Research & Development,3936,2,No,LOW RISK
+1641,Research & Development,7945,4,Yes,LOW RISK
+1642,Human Resources,5743,4,Yes,LOW RISK
+1644,Research & Development,15202,4,No,LOW RISK
+1645,Sales,5440,4,Yes,LOW RISK
+1646,Research & Development,3760,4,Yes,LOW RISK
+1647,Research & Development,3517,3,No,MEDIUM RISK
+1648,Research & Development,2580,4,No,LOW RISK
+1649,Research & Development,2166,1,Yes,HIGH RISK
+1650,Sales,5869,3,No,MEDIUM RISK
+1651,Research & Development,8008,1,No,LOW RISK
+1653,Research & Development,5206,3,No,MEDIUM RISK
+1654,Research & Development,5295,2,No,LOW RISK
+1655,Research & Development,16413,2,No,MEDIUM RISK
+1656,Research & Development,13269,1,No,LOW RISK
+1657,Sales,2783,3,No,MEDIUM RISK
+1658,Research & Development,5433,2,No,LOW RISK
+1659,Research & Development,2013,2,No,LOW RISK
+1661,Research & Development,13966,3,Yes,MEDIUM RISK
+1662,Research & Development,4374,3,No,MEDIUM RISK
+1664,Research & Development,6842,1,No,LOW RISK
+1665,Research & Development,17426,3,No,MEDIUM RISK
+1666,Research & Development,17603,3,No,MEDIUM RISK
+1667,Sales,4581,4,Yes,LOW RISK
+1668,Research & Development,4735,4,No,LOW RISK
+1669,Sales,4187,2,Yes,HIGH RISK
+1670,Sales,5505,4,No,LOW RISK
+1671,Research & Development,5470,2,No,LOW RISK
+1673,Sales,5476,4,No,LOW RISK
+1674,Research & Development,2587,1,Yes,HIGH RISK
+1675,Research & Development,2440,2,No,LOW RISK
+1676,Sales,15972,2,No,LOW RISK
+1677,Research & Development,15379,3,No,MEDIUM RISK
+1678,Sales,7082,3,Yes,MEDIUM RISK
+1680,Sales,2728,1,No,LOW RISK
+1681,Sales,5368,4,Yes,LOW RISK
+1682,Research & Development,5347,3,No,MEDIUM RISK
+1683,Human Resources,3195,4,Yes,LOW RISK
+1684,Research & Development,3989,3,Yes,MEDIUM RISK
+1687,Research & Development,3306,3,No,MEDIUM RISK
+1689,Research & Development,7005,4,No,MEDIUM RISK
+1691,Sales,2655,3,Yes,MEDIUM RISK
+1692,Research & Development,1393,2,No,LOW RISK
+1693,Research & Development,2570,4,No,LOW RISK
+1694,Research & Development,3537,2,No,MEDIUM RISK
+1696,Research & Development,3986,4,No,LOW RISK
+1697,Research & Development,10883,4,No,LOW RISK
+1698,Research & Development,2028,2,No,MEDIUM RISK
+1700,Sales,9525,4,No,LOW RISK
+1701,Research & Development,2929,4,No,LOW RISK
+1702,Sales,2275,4,Yes,LOW RISK
+1703,Research & Development,7879,4,Yes,LOW RISK
+1704,Research & Development,4930,4,Yes,LOW RISK
+1706,Sales,7847,4,Yes,LOW RISK
+1707,Research & Development,4401,3,No,MEDIUM RISK
+1708,Sales,9241,3,No,MEDIUM RISK
+1709,Research & Development,2974,3,No,MEDIUM RISK
+1710,Sales,4502,4,No,LOW RISK
+1712,Research & Development,10748,3,No,MEDIUM RISK
+1714,Human Resources,1555,3,No,MEDIUM RISK
+1716,Sales,12936,3,No,MEDIUM RISK
+1718,Research & Development,2305,3,No,MEDIUM RISK
+1719,Research & Development,16704,2,No,MEDIUM RISK
+1720,Research & Development,3433,3,No,MEDIUM RISK
+1721,Research & Development,3477,3,No,MEDIUM RISK
+1722,Human Resources,6430,2,No,LOW RISK
+1724,Research & Development,6516,1,Yes,LOW RISK
+1725,Research & Development,3907,1,No,MEDIUM RISK
+1727,Research & Development,5562,2,No,LOW RISK
+1728,Research & Development,6883,3,No,MEDIUM RISK
+1729,Research & Development,2862,4,No,LOW RISK
+1731,Sales,4978,2,No,LOW RISK
+1732,Sales,10368,4,Yes,LOW RISK
+1733,Sales,6134,1,Yes,LOW RISK
+1734,Sales,6735,2,No,LOW RISK
+1735,Research & Development,3295,2,No,LOW RISK
+1736,Research & Development,5238,4,No,MEDIUM RISK
+1737,Research & Development,6472,4,Yes,LOW RISK
+1739,Sales,9610,3,No,MEDIUM RISK
+1740,Sales,19833,2,No,LOW RISK
+1744,Human Resources,9756,3,No,MEDIUM RISK
+1745,Research & Development,4968,1,No,LOW RISK
+1746,Human Resources,2145,4,No,LOW RISK
+1747,Human Resources,2180,4,No,LOW RISK
+1749,Sales,8346,3,No,MEDIUM RISK
+1751,Research & Development,3445,4,No,LOW RISK
+1752,Sales,2760,2,No,LOW RISK
+1753,Research & Development,6294,3,Yes,MEDIUM RISK
+1754,Sales,7140,1,No,LOW RISK
+1755,Research & Development,2932,4,Yes,LOW RISK
+1756,Sales,5147,2,No,LOW RISK
+1757,Sales,4507,4,No,LOW RISK
+1758,Sales,8564,1,Yes,LOW RISK
+1760,Research & Development,2468,2,No,LOW RISK
+1761,Sales,8161,3,No,MEDIUM RISK
+1762,Research & Development,2109,1,No,LOW RISK
+1763,Research & Development,5294,3,No,MEDIUM RISK
+1764,Research & Development,2718,2,No,LOW RISK
+1766,Research & Development,5811,4,Yes,LOW RISK
+1767,Research & Development,2437,3,Yes,MEDIUM RISK
+1768,Research & Development,2766,2,No,LOW RISK
+1770,Research & Development,19038,1,No,LOW RISK
+1771,Research & Development,3055,2,No,LOW RISK
+1772,Research & Development,2289,1,No,LOW RISK
+1774,Sales,4001,3,Yes,MEDIUM RISK
+1775,Research & Development,12965,3,Yes,MEDIUM RISK
+1778,Human Resources,3539,4,No,LOW RISK
+1779,Sales,6029,4,No,LOW RISK
+1780,Sales,2679,2,No,LOW RISK
+1782,Research & Development,3702,3,No,MEDIUM RISK
+1783,Research & Development,2398,1,Yes,HIGH RISK
+1784,Sales,5468,4,No,MEDIUM RISK
+1786,Research & Development,13116,3,No,MEDIUM RISK
+1787,Sales,4189,2,No,LOW RISK
+1789,Research & Development,19328,4,Yes,LOW RISK
+1790,Research & Development,8321,1,Yes,LOW RISK
+1792,Research & Development,2342,2,Yes,HIGH RISK
+1794,Human Resources,4071,2,No,LOW RISK
+1797,Sales,5813,4,Yes,MEDIUM RISK
+1798,Research & Development,3143,1,No,LOW RISK
+1799,Research & Development,2044,4,No,LOW RISK
+1800,Research & Development,13464,3,No,MEDIUM RISK
+1801,Sales,7991,2,No,MEDIUM RISK
+1802,Research & Development,3377,1,No,LOW RISK
+1803,Research & Development,5538,1,No,LOW RISK
+1804,Research & Development,5762,4,No,LOW RISK
+1805,Human Resources,2592,2,No,LOW RISK
+1807,Research & Development,5346,1,No,LOW RISK
+1809,Research & Development,4213,1,No,LOW RISK
+1812,Sales,4127,4,No,LOW RISK
+1813,Research & Development,2438,3,No,MEDIUM RISK
+1814,Research & Development,6870,2,No,LOW RISK
+1815,Sales,10447,3,Yes,MEDIUM RISK
+1816,Research & Development,9667,3,No,MEDIUM RISK
+1818,Human Resources,2148,2,Yes,HIGH RISK
+1821,Research & Development,8926,2,No,MEDIUM RISK
+1822,Research & Development,6513,4,No,LOW RISK
+1823,Sales,6799,3,No,MEDIUM RISK
+1824,Sales,16291,2,No,LOW RISK
+1826,Research & Development,2705,3,No,MEDIUM RISK
+1827,Research & Development,10333,2,Yes,LOW RISK
+1829,Research & Development,4448,1,No,LOW RISK
+1830,Research & Development,6854,4,No,LOW RISK
+1833,Sales,9637,1,No,LOW RISK
+1834,Research & Development,3591,1,No,LOW RISK
+1835,Sales,5405,4,Yes,LOW RISK
+1836,Sales,4684,4,No,LOW RISK
+1837,Research & Development,15787,3,Yes,MEDIUM RISK
+1839,Research & Development,1514,3,No,MEDIUM RISK
+1842,Human Resources,2956,1,No,LOW RISK
+1844,Human Resources,2335,1,Yes,HIGH RISK
+1845,Sales,5154,3,No,MEDIUM RISK
+1847,Research & Development,6962,2,Yes,LOW RISK
+1849,Sales,5675,4,No,LOW RISK
+1850,Research & Development,2379,4,Yes,LOW RISK
+1852,Research & Development,3812,4,No,LOW RISK
+1853,Sales,4648,4,No,LOW RISK
+1854,Research & Development,2936,3,No,MEDIUM RISK
+1856,Research & Development,2105,3,No,MEDIUM RISK
+1857,Research & Development,8578,4,No,LOW RISK
+1858,Human Resources,2706,4,No,LOW RISK
+1859,Research & Development,6384,3,No,MEDIUM RISK
+1860,Research & Development,3968,3,No,MEDIUM RISK
+1862,Sales,9907,2,Yes,LOW RISK
+1863,Sales,13225,1,No,LOW RISK
+1864,Sales,3540,3,No,MEDIUM RISK
+1865,Human Resources,2804,2,No,LOW RISK
+1866,Research & Development,19392,3,No,MEDIUM RISK
+1867,Research & Development,19665,2,No,LOW RISK
+1868,Research & Development,2439,4,Yes,MEDIUM RISK
+1869,Sales,7314,2,No,LOW RISK
+1870,Research & Development,4774,1,No,LOW RISK
+1871,Research & Development,3902,4,No,LOW RISK
+1873,Research & Development,2662,4,No,LOW RISK
+1875,Sales,2856,2,No,LOW RISK
+1876,Sales,1081,4,No,LOW RISK
+1878,Research & Development,2472,2,Yes,HIGH RISK
+1880,Sales,5673,3,Yes,MEDIUM RISK
+1881,Research & Development,4197,3,No,MEDIUM RISK
+1882,Sales,9713,4,Yes,LOW RISK
+1883,Research & Development,2062,1,No,LOW RISK
+1885,Research & Development,4284,1,Yes,HIGH RISK
+1886,Research & Development,4788,2,Yes,HIGH RISK
+1888,Research & Development,5906,4,No,MEDIUM RISK
+1890,Human Resources,3886,4,No,LOW RISK
+1892,Research & Development,16823,1,No,LOW RISK
+1893,Research & Development,2933,3,Yes,MEDIUM RISK
+1898,Sales,6500,3,No,MEDIUM RISK
+1900,Research & Development,17174,4,No,MEDIUM RISK
+1903,Research & Development,5033,1,No,LOW RISK
+1905,Research & Development,2307,1,Yes,HIGH RISK
+1907,Research & Development,2587,4,No,MEDIUM RISK
+1908,Sales,5507,2,No,LOW RISK
+1909,Sales,4393,2,No,LOW RISK
+1911,Research & Development,13348,1,No,LOW RISK
+1912,Sales,6583,4,Yes,LOW RISK
+1915,Sales,8103,4,Yes,LOW RISK
+1916,Research & Development,3978,3,No,MEDIUM RISK
+1918,Research & Development,2544,4,No,LOW RISK
+1922,Research & Development,5399,3,No,MEDIUM RISK
+1924,Sales,5487,3,No,MEDIUM RISK
+1927,Sales,6834,4,Yes,LOW RISK
+1928,Sales,1091,1,No,MEDIUM RISK
+1929,Sales,5736,3,No,MEDIUM RISK
+1931,Research & Development,2226,2,No,LOW RISK
+1932,Research & Development,5747,4,Yes,MEDIUM RISK
+1933,Sales,9854,3,Yes,MEDIUM RISK
+1934,Research & Development,5467,2,No,LOW RISK
+1935,Sales,5380,1,No,LOW RISK
+1936,Research & Development,5151,1,No,LOW RISK
+1937,Research & Development,2133,2,Yes,HIGH RISK
+1938,Sales,17875,4,Yes,MEDIUM RISK
+1939,Research & Development,2432,3,Yes,MEDIUM RISK
+1940,Research & Development,4771,4,No,LOW RISK
+1941,Research & Development,19161,4,No,LOW RISK
+1943,Sales,5087,4,Yes,LOW RISK
+1944,Human Resources,2863,2,No,MEDIUM RISK
+1945,Sales,5561,1,No,LOW RISK
+1947,Research & Development,2144,3,No,MEDIUM RISK
+1948,Research & Development,3065,1,Yes,HIGH RISK
+1949,Research & Development,2810,2,No,LOW RISK
+1950,Sales,9888,4,No,LOW RISK
+1951,Sales,8628,3,No,MEDIUM RISK
+1952,Research & Development,2867,1,No,LOW RISK
+1954,Research & Development,5373,1,No,LOW RISK
+1955,Research & Development,6667,4,No,LOW RISK
+1956,Research & Development,5003,1,No,LOW RISK
+1960,Research & Development,2367,4,No,LOW RISK
+1961,Sales,2858,1,No,LOW RISK
+1962,Sales,5204,4,Yes,LOW RISK
+1965,Sales,4105,4,No,LOW RISK
+1966,Research & Development,9679,4,No,LOW RISK
+1967,Sales,5617,4,Yes,MEDIUM RISK
+1968,Sales,10448,1,Yes,MEDIUM RISK
+1969,Research & Development,2897,3,No,MEDIUM RISK
+1970,Research & Development,5968,3,No,MEDIUM RISK
+1971,Research & Development,7510,3,No,MEDIUM RISK
+1972,Human Resources,2991,2,Yes,HIGH RISK
+1973,Human Resources,19636,2,Yes,MEDIUM RISK
+1974,Research & Development,1129,4,Yes,LOW RISK
+1975,Sales,13341,1,No,LOW RISK
+1976,Research & Development,4332,3,No,MEDIUM RISK
+1979,Research & Development,11031,3,No,MEDIUM RISK
+1980,Research & Development,4440,1,Yes,HIGH RISK
+1981,Research & Development,4617,3,No,MEDIUM RISK
+1982,Research & Development,2647,4,No,LOW RISK
+1985,Research & Development,6323,3,No,MEDIUM RISK
+1986,Sales,5677,2,No,LOW RISK
+1987,Human Resources,2187,2,No,LOW RISK
+1989,Research & Development,3748,2,No,LOW RISK
+1992,Research & Development,3977,3,Yes,MEDIUM RISK
+1993,Research & Development,8633,3,No,MEDIUM RISK
+1994,Research & Development,2008,3,No,MEDIUM RISK
+1995,Sales,4440,2,No,LOW RISK
+1996,Sales,3067,3,No,MEDIUM RISK
+1997,Research & Development,5321,3,No,MEDIUM RISK
+1998,Research & Development,5410,1,Yes,LOW RISK
+1999,Research & Development,2782,4,No,LOW RISK
+2000,Research & Development,11957,2,No,LOW RISK
+2003,Research & Development,2660,3,Yes,MEDIUM RISK
+2007,Research & Development,3375,3,No,MEDIUM RISK
+2008,Research & Development,5098,3,No,MEDIUM RISK
+2009,Research & Development,4878,4,Yes,LOW RISK
+2010,Research & Development,2837,2,No,MEDIUM RISK
+2012,Research & Development,2406,4,No,LOW RISK
+2013,Sales,2269,2,No,LOW RISK
+2014,Research & Development,4108,4,No,MEDIUM RISK
+2015,Research & Development,13206,3,No,MEDIUM RISK
+2016,Sales,10422,4,No,LOW RISK
+2017,Research & Development,13744,4,Yes,LOW RISK
+2018,Sales,4907,3,Yes,MEDIUM RISK
+2019,Sales,3482,4,No,MEDIUM RISK
+2020,Research & Development,2436,4,Yes,LOW RISK
+2021,Sales,2380,1,Yes,HIGH RISK
+2022,Research & Development,19431,4,No,LOW RISK
+2023,Sales,1790,1,No,LOW RISK
+2024,Sales,7644,4,No,LOW RISK
+2025,Research & Development,5131,2,No,LOW RISK
+2026,Research & Development,6306,3,No,MEDIUM RISK
+2027,Research & Development,4787,4,Yes,LOW RISK
+2031,Research & Development,18880,3,No,MEDIUM RISK
+2032,Research & Development,2339,3,No,MEDIUM RISK
+2034,Research & Development,13570,2,No,MEDIUM RISK
+2035,Sales,6712,3,No,MEDIUM RISK
+2036,Sales,5406,4,No,LOW RISK
+2037,Sales,8938,2,No,LOW RISK
+2038,Research & Development,2439,1,No,LOW RISK
+2040,Human Resources,8837,4,Yes,MEDIUM RISK
+2041,Sales,5343,4,No,LOW RISK
+2044,Sales,6728,3,No,MEDIUM RISK
+2045,Sales,6652,4,No,LOW RISK
+2046,Sales,4850,3,No,MEDIUM RISK
+2048,Research & Development,2809,3,No,MEDIUM RISK
+2049,Research & Development,5689,3,Yes,MEDIUM RISK
+2051,Research & Development,2001,3,No,MEDIUM RISK
+2052,Research & Development,2977,4,No,LOW RISK
+2053,Research & Development,4025,2,Yes,HIGH RISK
+2054,Research & Development,3785,1,No,MEDIUM RISK
+2055,Sales,10854,1,Yes,MEDIUM RISK
+2056,Sales,12031,4,No,MEDIUM RISK
+2057,Research & Development,9936,1,No,LOW RISK
+2060,Sales,2966,3,No,MEDIUM RISK
+2061,Research & Development,2571,4,No,MEDIUM RISK
+2062,Research & Development,9991,1,No,LOW RISK
+2064,Research & Development,6142,2,Yes,LOW RISK
+2065,Sales,5390,2,No,LOW RISK
+2068,Research & Development,4404,3,No,MEDIUM RISK

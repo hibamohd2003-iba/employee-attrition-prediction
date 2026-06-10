@@ -1,0 +1,295 @@
+Department,MonthlyIncome,predicted_attrition,risk_probability
+Sales,2033,0,0.27401718
+Research & Development,2011,0,0.0041374266
+Sales,11557,0,0.020766277
+Research & Development,19190,0,0.0014031724
+Research & Development,3388,0,0.14245999
+Research & Development,7945,0,0.05795947
+Research & Development,7969,0,0.033088062
+Research & Development,19392,0,0.0112138
+Research & Development,6883,0,0.006601438
+Research & Development,1514,0,0.3304528
+Research & Development,2929,0,0.028232334
+Sales,10686,0,0.075398125
+Research & Development,4425,0,0.061673295
+Sales,5468,0,0.044094328
+Research & Development,2838,0,0.08274682
+Research & Development,2478,0,0.3120222
+Sales,8392,0,0.015591314
+Sales,5249,0,0.004171308
+Research & Development,6877,0,0.16820353
+Research & Development,2977,0,0.020026984
+Sales,2800,0,0.1970295
+Research & Development,6179,0,0.033610508
+Research & Development,4477,0,0.018362438
+Research & Development,4069,0,0.007342559
+Research & Development,3660,0,0.014739725
+Sales,4487,0,0.3483439
+Research & Development,2766,0,0.024862172
+Research & Development,10650,0,0.029643595
+Sales,7823,0,0.038819466
+Research & Development,19545,0,0.0071245143
+Research & Development,5208,0,0.03881896
+Research & Development,2559,0,0.08193924
+Research & Development,2274,0,0.044146463
+Sales,13120,0,0.05420962
+Research & Development,2008,0,0.39623338
+Research & Development,3348,1,0.69608164
+Research & Development,13664,0,0.025355417
+Sales,4105,0,0.018060505
+Research & Development,3491,0,0.0715964
+Research & Development,2321,0,0.44037253
+Research & Development,13734,0,0.011408407
+Research & Development,3597,0,0.10470237
+Sales,16064,0,0.0076965317
+Sales,5380,0,0.07390073
+Research & Development,2141,0,0.015783627
+Sales,9713,0,0.051517624
+Research & Development,3295,0,0.123993695
+Research & Development,4930,0,0.06562467
+Research & Development,2232,0,0.00592886
+Sales,5253,0,0.029848235
+Sales,4373,0,0.061823405
+Research & Development,2544,0,0.06585693
+Sales,5343,0,0.08359328
+Sales,2430,0,0.028487476
+Research & Development,2506,0,0.013912011
+Research & Development,4680,0,0.05285091
+Research & Development,13237,0,0.01305697
+Sales,4559,0,0.4869849
+Research & Development,4335,0,0.038441412
+Sales,5171,0,0.1029056
+Sales,9204,0,0.024360051
+Research & Development,2028,0,0.036859207
+Research & Development,2279,0,0.022800645
+Research & Development,2438,0,0.024087213
+Research & Development,4404,0,0.042684253
+Human Resources,4071,0,0.01631324
+Research & Development,6499,0,0.04394703
+Human Resources,2148,0,0.16674541
+Research & Development,2127,0,0.33354878
+Sales,2827,0,0.07514046
+Human Resources,8837,0,0.08774131
+Sales,5902,0,0.010590461
+Research & Development,10512,0,0.036688115
+Research & Development,2974,0,0.04187741
+Research & Development,4505,0,0.010629264
+Research & Development,5906,0,0.007173455
+Research & Development,10466,0,0.007813371
+Sales,10609,0,0.024732942
+Research & Development,4197,0,0.09428818
+Research & Development,3072,0,0.051492907
+Sales,5147,0,0.073753886
+Research & Development,2042,1,0.8945217
+Research & Development,10312,0,0.04921267
+Research & Development,19094,0,0.0039591473
+Sales,6500,0,0.033964157
+Research & Development,6516,0,0.02655161
+Research & Development,9824,0,0.012835991
+Human Resources,10482,0,0.0042884075
+Research & Development,6811,0,0.019897733
+Sales,9525,0,0.032980725
+Sales,10453,0,0.06746523
+Research & Development,19999,0,0.018001843
+Sales,1118,1,0.96311873
+Sales,2157,0,0.037090827
+Sales,2789,0,0.28549215
+Sales,4400,0,0.19871391
+Research & Development,3760,0,0.21216683
+Research & Development,2058,0,0.025518488
+Sales,4907,0,0.11085889
+Research & Development,4249,0,0.058586847
+Research & Development,19627,0,0.018695358
+Research & Development,4272,0,0.016429303
+Research & Development,2782,0,0.01669609
+Research & Development,3445,0,0.017925989
+Sales,2858,1,0.5402372
+Sales,5406,0,0.031994257
+Research & Development,2318,0,0.24557719
+Research & Development,19436,0,0.0031803786
+Research & Development,2362,0,0.086420536
+Research & Development,5484,0,0.0077229724
+Research & Development,4663,0,0.016980749
+Research & Development,3201,0,0.112328045
+Human Resources,19717,0,0.043730885
+Research & Development,9884,0,0.0075306585
+Research & Development,2387,0,0.013697702
+Research & Development,4721,0,0.084937505
+Research & Development,3833,0,0.03949289
+Research & Development,10527,0,0.0653306
+Research & Development,4011,0,0.060435
+Research & Development,10274,0,0.01229997
+Research & Development,2288,0,0.06108079
+Research & Development,3057,0,0.24716142
+Research & Development,16328,0,0.012232116
+Sales,3540,0,0.084087096
+Research & Development,3867,0,0.20256333
+Sales,6825,0,0.024634343
+Research & Development,3433,0,0.32500762
+Sales,5828,0,0.3968587
+Research & Development,6294,0,0.38788542
+Sales,9852,0,0.09241018
+Sales,3140,1,0.5216437
+Research & Development,17856,0,0.0035510205
+Research & Development,2686,0,0.06893963
+Sales,3294,0,0.4621522
+Research & Development,2238,0,0.099028714
+Research & Development,1129,1,0.618853
+Sales,9705,1,0.6169847
+Research & Development,6540,0,0.07767597
+Research & Development,9362,0,0.02057247
+Research & Development,19187,0,0.075339526
+Research & Development,19701,0,0.009449313
+Research & Development,6347,0,0.0033070068
+Research & Development,3230,0,0.06227352
+Human Resources,6410,0,0.2747021
+Research & Development,2107,0,0.091460824
+Sales,9738,0,0.07161919
+Sales,9610,0,0.18477339
+Research & Development,3755,0,0.06278238
+Research & Development,2323,0,0.06428025
+Research & Development,14336,0,0.0052841124
+Sales,4759,0,0.17213298
+Research & Development,6549,0,0.014390151
+Research & Development,3904,0,0.017588217
+Research & Development,19232,0,0.00912327
+Research & Development,4724,0,0.013851768
+Research & Development,4963,0,0.03880189
+Research & Development,4787,0,0.28989872
+Research & Development,6377,0,0.0089001255
+Sales,4577,0,0.33762762
+Sales,5507,0,0.13008195
+Sales,6804,0,0.031254392
+Human Resources,18200,0,0.014238613
+Research & Development,2960,0,0.018286292
+Human Resources,6272,0,0.004002754
+Research & Development,2759,0,0.15274426
+Human Resources,2064,0,0.03667912
+Research & Development,2461,0,0.18410712
+Sales,5736,0,0.05391608
+Research & Development,2090,1,0.64378387
+Research & Development,13675,0,0.074471906
+Research & Development,6142,0,0.013475355
+Research & Development,3072,0,0.04390956
+Sales,2976,0,0.22838202
+Sales,6861,0,0.17311546
+Research & Development,3102,0,0.09886191
+Human Resources,19189,0,0.004014339
+Research & Development,2422,0,0.08665409
+Research & Development,3210,0,0.0049007344
+Sales,4728,0,0.16433968
+Research & Development,2725,0,0.11027689
+Research & Development,3929,0,0.05398962
+Sales,4502,0,0.16685723
+Sales,3482,0,0.21631801
+Research & Development,2389,1,0.5307225
+Research & Development,17007,0,0.035402182
+Research & Development,5470,0,0.0032877515
+Research & Development,3591,0,0.011182616
+Research & Development,2177,0,0.026621204
+Sales,16606,0,0.009785696
+Research & Development,2933,0,0.33235428
+Sales,4581,0,0.25850797
+Research & Development,2911,0,0.013009789
+Research & Development,5933,0,0.011199265
+Research & Development,19537,0,0.061508644
+Research & Development,13757,0,0.0081672305
+Human Resources,6389,0,0.0057441266
+Sales,2655,0,0.31434655
+Sales,5332,1,0.51001734
+Sales,6694,0,0.016686855
+Sales,1052,1,0.64421916
+Sales,2121,1,0.985115
+Research & Development,12185,0,0.015752103
+Research & Development,2096,0,0.15107095
+Human Resources,19141,0,0.013623495
+Research & Development,2935,0,0.23059903
+Research & Development,14275,0,0.011643964
+Research & Development,19237,0,0.015726442
+Research & Development,3708,0,0.119198814
+Sales,7847,0,0.020184979
+Research & Development,2897,0,0.037118886
+Research & Development,4941,0,0.005118627
+Sales,18789,0,0.004869963
+Research & Development,19038,0,0.016899958
+Research & Development,8376,0,0.010783398
+Sales,2174,1,0.8718691
+Research & Development,5257,0,0.053500097
+Research & Development,6132,0,0.010389652
+Human Resources,2109,0,0.09362657
+Research & Development,2909,0,0.23641528
+Sales,2683,0,0.22215325
+Sales,17650,0,0.0064695254
+Research & Development,5488,0,0.041073024
+Research & Development,8722,0,0.06890401
+Sales,1200,1,0.85466677
+Research & Development,10388,0,0.018682567
+Research & Development,2821,0,0.009705461
+Research & Development,2127,0,0.36338785
+Research & Development,3681,0,0.09354396
+Research & Development,16184,0,0.002611455
+Research & Development,4107,0,0.021262733
+Research & Development,8858,0,0.029641626
+Research & Development,4377,0,0.016760891
+Research & Development,2377,0,0.09791079
+Research & Development,5295,0,0.017328508
+Research & Development,5163,0,0.013154036
+Research & Development,17181,0,0.017438693
+Research & Development,3669,0,0.06865689
+Research & Development,4420,0,0.033703793
+Research & Development,2693,0,0.27729347
+Research & Development,2061,0,0.43604398
+Research & Development,10169,0,0.0048011853
+Research & Development,2871,0,0.35172695
+Research & Development,2700,0,0.004054765
+Research & Development,2705,0,0.027089637
+Research & Development,5957,0,0.018417558
+Sales,4256,0,0.059175357
+Research & Development,2479,0,0.07713735
+Research & Development,3298,0,0.01751827
+Research & Development,2426,0,0.06549938
+Research & Development,4434,0,0.016314909
+Research & Development,3730,0,0.10911249
+Research & Development,4777,1,0.7104629
+Sales,6201,0,0.030219276
+Research & Development,5003,0,0.122094
+Research & Development,2044,0,0.022169385
+Sales,16015,0,0.008985199
+Sales,9094,1,0.721799
+Human Resources,2277,0,0.2695881
+Sales,4465,0,0.021262947
+Sales,4440,0,0.014444539
+Research & Development,5762,0,0.0009477039
+Research & Development,7510,0,0.10798701
+Research & Development,8578,0,0.010947871
+Sales,4001,0,0.0040642507
+Sales,5390,0,0.025532966
+Research & Development,3038,0,0.040512647
+Research & Development,5399,0,0.011832624
+Research & Development,2109,0,0.09035753
+Research & Development,2810,0,0.079235926
+Research & Development,5093,0,0.037276886
+Research & Development,2853,0,0.15797734
+Research & Development,7491,0,0.0035521968
+Research & Development,2904,0,0.014653517
+Sales,3447,0,0.079867
+Research & Development,2942,0,0.017674027
+Sales,10596,0,0.15297958
+Research & Development,2404,1,0.8959213
+Research & Development,2380,0,0.26509506
+Sales,6272,0,0.023881258
+Research & Development,19272,0,0.01630953
+Research & Development,3211,0,0.090684965
+Research & Development,5056,0,0.03251974
+Research & Development,2439,0,0.021074386
+Research & Development,9667,0,0.19514243
+Research & Development,2341,0,0.23291725
+Sales,9888,0,0.11604233
+Research & Development,19740,0,0.00549594
+Sales,8224,1,0.61013
+Sales,2791,0,0.0522856
+Human Resources,3539,0,0.0101613
+Research & Development,5033,0,0.010718919
+Sales,6134,0,0.22887404
+Research & Development,2066,0,0.027556779
+Research & Development,2115,0,0.006886389
